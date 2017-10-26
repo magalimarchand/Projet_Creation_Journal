@@ -1,0 +1,5 @@
+﻿2017-08-29 20:37:00|Judo|Mohan*Nyan*sport|Penser à réinscrire les enfants au judo le samedi.*Contacter Emmanuel.
+2017-08-29 20:39:00|Stanislas administratif|Nyan*études*todo|Aller à la librairie de Stan pour récupérer la commande des affaires scolaires en attente.*Elle sont déjà payées, il faut juste aller les chercher.
+2017-08-29 20:39:00|Devoirs|Mohan*devoirs|Mettre en place une nouvelle stratégie pour que Mohan n'oublie pas de marquer ses devoirs dans son agenda.
+2017-08-29 20:42:00|Orthopédagogue|RV|Prendre contact avec Myriam pour la première séance de la rentrée.
+2017-08-29 20:43:00|Sorties scolaires|Nyan*Mohan|Faire un memento à mettre sur le frigo de toutes les sorties scolaires prévues pour les prochains mois.

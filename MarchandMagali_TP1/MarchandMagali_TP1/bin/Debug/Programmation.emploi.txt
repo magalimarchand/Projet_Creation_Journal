@@ -1,0 +1,4 @@
+﻿2017-08-29 20:48:00|Liste compagnies|recherche*demande*contact|Établir une liste de compagnies susceptibles d'être intéressées par mon profil.
+2017-08-30 17:33:15|Contacts|recherche*todo|Faire une liste de mes contacts susceptibles de m'aider dans ma recherche.*Peuvent-ils me référer de personnes de leur connaissance ?
+2017-08-30 17:34:25|Recherche d'emploi|todo*projet perso|Réfléchir à toutes les étapes nécessaires:*- Me faire un agenda*- Me faire une todo liste 
+2017-08-30 20:36:57|Liste compagnies|todoréponsedemande|Faire une liste des compagnies à qui j'ai envoyé mon CV.*Faire une autre liste des compagnies qui m'ont répondu.*Mettre à jour le tableau des compagnies.

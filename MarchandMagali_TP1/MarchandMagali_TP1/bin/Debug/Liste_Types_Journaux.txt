@@ -1,0 +1,4 @@
+.formation|s1*s2*s3*s4*s5*VB*Java*examen*TP*C#*révisions*todo*PL/SQL|Cours*Exercices*TPs*Révisions examen*Documents*Exemples
+.enfants|Nyan*Mohan*sport*santé*études*examen*devoirs*RV*todo*absence*retard|Stanislas administratif*Judo*Orthopédagogue*Devoirs*Sorties scolaires
+.emploi|CV*todo*portfolio*projet perso*entretien*réponse*demande*recherche*RV*contact|Liste compagnies*Contacts*Recherche d'emploi*CV*Portfolio
+.loisirs|film*achat*tickets*RV*vélo*parc*concert*famille*chalet*piscine*inscription*invitation*patin*karting*laser|Musique*Cinema*Patinoire*Sorties*Sport

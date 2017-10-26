@@ -1,0 +1,6 @@
+﻿2017-08-30 15:27:00|Sorties|parc*invitation|Sortie au parc du Mont-Royal dimanche 03 septembre 2017.
+2017-08-30 16:16:01|Cinema|film*tickets*RV|Séance samedi prochain à 15h.
+2017-08-30 16:30:33|Patinoire|invitation*patin|Appeler Sumitra pour lui proposer une sortie patinoire.*Pour samedi ou dimanche ?
+2017-08-30 16:57:26|Cinema|invitation|Inviter des amis de Nyan et Mohan pour aller au cinéma.*Demander aux parents de Gaspard.
+2017-08-30 16:59:56|Sorties|RV|S'organiser pour les prochaines sorties de septembre.*Quelles activités ?
+2017-08-30 17:03:13|Musique|concert*tickets|Rechercher des concerts intéressants pour les prochains mois.*Ne pas oublier le concert de Patrick Watson le 2 ou 3 septembre !!!!
